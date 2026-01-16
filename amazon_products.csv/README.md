@@ -16,3 +16,8 @@ Prepare clean, structured datasets and build a user-item interaction matrix for 
 ### Files in this Milestone
 - `Milestone1_Prep.ipynb`: Python code for data processing.
 - `user_item_matrix.csv`: The final structured matrix ready for training.
+
+## Milestone 2: Model Building
+- **Objective:** Developed and trained the core recommendation engine.
+- **Algorithm:** Used Cosine Similarity to identify user-to-user rating patterns.
+- **Benchmark:** Achieved an initial Average User Similarity Score of 0.3973.
